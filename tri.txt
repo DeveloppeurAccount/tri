@@ -1,0 +1,5 @@
+L’idée, on récupère les arguments, on les convertit en tableau,
+ensuite on fait passer la valeur maximale de ce tableau en index 0 d’un tableau tri
+que l’on a créer puis on supprime cette valeur du premier tableau. Ensuite on recommence,
+on prend la valeur maximale du premier tableau, on la fait passer en index 1 du tableau tri et ainsi de suite jusqu’a ce que
+le premier tableau soit vide, ensuite on joint le tableau tri, on rajoute les espaces et on affiche cela.
